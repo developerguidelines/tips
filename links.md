@@ -14,16 +14,18 @@ means nothing without a description.
 
 # YouTube
 # Arch Linux
-# Other Locations
+# Random Things
          
-→ [Ideone Online Compiler](http://ideone.com/) <!--{{{-->
+→ [Ideone Online Compiler](http://ideone.com/) 
+<!--{{{-->
 
         Ideone  is  an  online  compiler  and  debugging tool which
         allows  you  to  compile  source code and execute it online
         in     more     than     60     programming     languages. 
 
 <!--}}}-->
-→ [Pluralsight Free IT Courses](https://offers.pluralsight.com/) <!--{{{-->
+→ [Pluralsight Free IT Courses](https://offers.pluralsight.com/) 
+<!--{{{-->
 
         Experience  the  best  and fastest way to learn new tech and
         creative skills.
