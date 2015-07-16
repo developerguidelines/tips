@@ -19,7 +19,8 @@ means nothing without a description.
 # Arch Linux
 # Random Things
          
-* [Ideone Online Compiler][Ideone] <!--{{{-->
+* [Ideone Online Compiler][Ideone] 
+<!--{{{-->
 
         Ideone  is  an  online  compiler  and  debugging tool which
         allows  you  to  compile  source code and execute it online
@@ -27,7 +28,8 @@ means nothing without a description.
 
 <!--}}}-->
 
-* [Pluralsight Free IT Courses][Pluralsight] <!--{{{-->
+* [Pluralsight Free IT Courses][Pluralsight] 
+<!--{{{-->
 
         Experience  the  best  and fastest way to learn new tech and
         creative skills.
