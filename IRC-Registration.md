@@ -5,7 +5,7 @@ easy.
 
 1. Choose a Messenger that support [IRC Protocol][IRC Protocol]
 
-There is several softwares that do the job, so you'll have to find by your own.
+There are several softwares that do the job, so you'll have to find by your own.
 This tutorial was based on the use of [Pidgin][Pidgin].
 
 2. Create a NickName within the Messenger of your choice
