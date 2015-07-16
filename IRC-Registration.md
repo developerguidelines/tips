@@ -5,7 +5,7 @@ easy.
 
 1. Choose a Messenger that support [IRC Protocol][IRC Protocol]
 
-There is several softwares that do the job, so you'll have to find by your own.
+There are several softwares that do the job, so you'll have to find by your own.
 This tutorial was based on the use of [Pidgin][Pidgin].
 
 2. Create a NickName within the Messenger of your choice
@@ -75,7 +75,7 @@ So, now is the time for you think about a cool nickname for you self. Mine is
         Several channels will be showed. You can then choose one and enter on it
 
         An easy way to do this is trying to guess a channel. All the channels has 
-        the '#' symbol in the begining of it name. So try out something like:
+        the '#' symbol in the begining of its name. So try out something like:
 
             /join #music
             /join #movies
