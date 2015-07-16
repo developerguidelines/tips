@@ -22,7 +22,7 @@ means nothing without a description.
         allows  you  to  compile  source code and execute it online
         in     more     than     60     programming     languages. 
 
-    <!--}}}-->
+<!--}}}-->
 → [Pluralsight Free IT Courses](https://offers.pluralsight.com/) <!--{{{-->
 
         Experience  the  best  and fastest way to learn new tech and
@@ -34,4 +34,4 @@ means nothing without a description.
         all  with  the  world’s  largest  tech and creative training
         resource.
 
-    <!--}}}-->
+<!--}}}-->
