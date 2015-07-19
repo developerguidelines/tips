@@ -7,3 +7,4 @@ Um cara perguntou sobre esses FrameWorks no channel do Node.js no IRC
 
         kraken
         sails
+        promises

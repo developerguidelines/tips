@@ -2,6 +2,10 @@
 logs
 *.log
 
+# Vim files
+.*.swp
+.*.swo
+
 # Runtime data
 pids
 *.pid
