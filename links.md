@@ -16,7 +16,22 @@ means nothing without a description.
 
 
 # YouTube
+
+* [Top Gear Music on Piano - Super Nintendo][TG]
+
 # Arch Linux
+
+* [Arch Linux Speeding Up][ArchUp]
+<!--{{{-->
+
+        This   article   provides   information   on   basic  system
+        diagnostics  relating  to  performance as well as steps that
+        may  be taken to reduce resource consumption or to otherwise
+        optimize the system with the end-goal being either perceived
+        or   documented  improvements  to  a  system's  performance.
+
+<!--}}}-->
+
 # Random Things
          
 * [Ideone Online Compiler][Ideone] 
@@ -45,3 +60,5 @@ means nothing without a description.
 [Misterious URL]: https://www.youtube.com/watch?v=lNpgknZcuVU
 [Ideone]: http://ideone.com/ 
 [Pluralsight]: https://offers.pluralsight.com/
+[ArchUp]: https://wiki.archlinux.org/index.php/Maximizing_performance
+[TG]: https://www.youtube.com/watch?v=_QVKcjpjeM4&index=1&list=RD_QVKcjpjeM4
