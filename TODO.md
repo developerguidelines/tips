@@ -1,5 +1,7 @@
 
+
 # Tutorial sobre Git Patterns
+
     * Sobre aqueles comandos para criar repositórios remotamente direto pelo 
       terminal
 
@@ -19,5 +21,8 @@
 
       - Num dado branch, como voltar para um estado anterior (um dado commit), 
         tanto para um conjunto de arquivos quanto para o projeto inteiro.
+
+    * Acredito que esse tutorial tá com cara de pertencer ao repositório Hello 
+      World.
 
     * O que mais for interessante de se por nesse tutorial
