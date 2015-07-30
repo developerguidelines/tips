@@ -12,7 +12,7 @@
 
 * [Misterious URL: https://www.youtube.com/watch?v=lNpgknZcuVU][Misterious URL]
 
-means nothing without a description.
+    means nothing without a description.
 
 
 # YouTube
@@ -24,41 +24,49 @@ means nothing without a description.
 * [Arch Linux Speeding Up][ArchUp]
 <!--{{{-->
 
-        This   article   provides   information   on   basic  system
-        diagnostics  relating  to  performance as well as steps that
-        may  be taken to reduce resource consumption or to otherwise
-        optimize the system with the end-goal being either perceived
-        or   documented  improvements  to  a  system's  performance.
+    This   article   provides   information   on   basic  system
+    diagnostics  relating  to  performance as well as steps that
+    may  be taken to reduce resource consumption or to otherwise
+    optimize the system with the end-goal being either perceived
+    or   documented  improvements  to  a  system's  performance.
 
 <!--}}}-->
+
+* [Create Access Point][create_ap]
+
+    This script creates a NATed or Bridged WiFi Access Point.
+
+    Avaiable on [AUR][create_ap AUR].
 
 # Random Things
-         
-* [Ideone Online Compiler][Ideone] 
+
+* [Ideone Online Compiler][Ideone]
 <!--{{{-->
 
-        Ideone  is  an  online  compiler  and  debugging tool which
-        allows  you  to  compile  source code and execute it online
-        in     more     than     60     programming     languages. 
+    Ideone  is  an  online  compiler  and  debugging tool which
+    allows  you  to  compile  source code and execute it online
+    in     more     than     60     programming     languages.
 
 <!--}}}-->
 
-* [Pluralsight Free IT Courses][Pluralsight] 
+* [Pluralsight Free IT Courses][Pluralsight]
 <!--{{{-->
 
-        Experience  the  best  and fastest way to learn new tech and
-        creative skills.
+    Experience  the  best  and fastest way to learn new tech and
+    creative skills.
 
-        Redeem  your  free  account  and  learn powerful dev, IT and
-        creative  skills  from  top  industry pros. Activate your 30
-        days  of  unlimited  access in seconds and start learning it
-        all  with  the  world’s  largest  tech and creative training
-        resource.
+    Redeem  your  free  account  and  learn powerful dev, IT and
+    creative  skills  from  top  industry pros. Activate your 30
+    days  of  unlimited  access in seconds and start learning it
+    all  with  the  world’s  largest  tech and creative training
+    resource.
 
 <!--}}}-->
 
 [Misterious URL]: https://www.youtube.com/watch?v=lNpgknZcuVU
-[Ideone]: http://ideone.com/ 
+[Ideone]: http://ideone.com/
 [Pluralsight]: https://offers.pluralsight.com/
 [ArchUp]: https://wiki.archlinux.org/index.php/Maximizing_performance
 [TG]: https://www.youtube.com/watch?v=_QVKcjpjeM4&index=1&list=RD_QVKcjpjeM4
+[create_ap]: https://github.com/oblique/create_ap
+[create_ap AUR]: https://aur4.archlinux.org/packages/create_ap
