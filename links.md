@@ -33,11 +33,13 @@
 <!--}}}-->
 
 * [Create Access Point][create_ap]
+<!--{{{-->
 
     This script creates a NATed or Bridged WiFi Access Point.
 
     Avaiable on [AUR][create_ap AUR].
 
+<!--}}}-->
 # Random Things
 
 * [Ideone Online Compiler][Ideone]
@@ -63,6 +65,21 @@
 
 <!--}}}-->
 
+* [JQuery Terminal][JQueryTerminal]
+<!--{{{-->
+
+    JQuery  Terminal  Emulator  is a plugin for creating command
+    line interpreters in your applications. It can automatically
+    call  JSON-RPC  service  when  user type commands or you can
+    provide  an  object with methods, each method will be invoke
+    on  user  command. Object can have nested objects which will
+    create  nested  interpreter.  You can also use a function in
+    which  you can parse user command by your own. It′s ideal if
+    you  want  to  provide  additional  functionality  for power
+    users.   It   can   also   be   used   as   debuging   tool.
+
+<!--}}}-->
+
 [Misterious URL]: https://www.youtube.com/watch?v=lNpgknZcuVU
 [Ideone]: http://ideone.com/
 [Pluralsight]: https://offers.pluralsight.com/
@@ -70,3 +87,4 @@
 [TG]: https://www.youtube.com/watch?v=_QVKcjpjeM4&index=1&list=RD_QVKcjpjeM4
 [create_ap]: https://github.com/oblique/create_ap
 [create_ap AUR]: https://aur4.archlinux.org/packages/create_ap
+[JQueryTerminal]: http://terminal.jcubic.pl/
