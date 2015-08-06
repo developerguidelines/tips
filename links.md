@@ -80,6 +80,32 @@
 
 <!--}}}-->
 
+* [Learn Code The Hard Way][LCTHW]
+<!--{{{-->
+"Less  Talk, More Code" summarizes the philosophy. By having
+students  get  code working first, and explaining it second,
+you  cut  down  on  much  of  the  difficulty  of explaining
+programming      concepts      to      the      uninitiated.
+<!--}}}-->
+
+* [Programming Motherfucker][PMFucker]
+<!--{{{-->
+
+    We  are  a  community  of motherfucking programmers who have
+    been  humiliated  by  software development methodologies for
+    years.
+
+    We are tired of being told we're autistic idiots who need to
+    be  manipulated  to  work in a Forced Pair Programming chain
+    gang  without any time to be creative because none of the 10
+    managers on the project can do... Programming, Motherfucker.
+
+<!--}}}-->
+
+
+
+
+
 [Misterious URL]: https://www.youtube.com/watch?v=lNpgknZcuVU
 [Ideone]: http://ideone.com/
 [Pluralsight]: https://offers.pluralsight.com/
@@ -88,3 +114,5 @@
 [create_ap]: https://github.com/oblique/create_ap
 [create_ap AUR]: https://aur4.archlinux.org/packages/create_ap
 [JQueryTerminal]: http://terminal.jcubic.pl/
+[LCTHW]: http://learncodethehardway.org/
+[PMFucker]: http://programming-motherfucker.com/ 
