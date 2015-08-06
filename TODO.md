@@ -1,5 +1,6 @@
 
 
+ Teste
 # Tutorial sobre Git Patterns
 
     * Sobre aqueles comandos para criar repositórios remotamente direto pelo 

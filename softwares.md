@@ -26,8 +26,15 @@ calcurse
     suitable       for      use      in      scripts. 
 
 dvtm
-dvtm   brings   the   concept   of  tiling  window
-management,  popularized  by  X11-window  managers
-like  dwm  to  the  console.  As  a console window
-manager  it  tries  to  make  it easy to work with
-multiple       console       based      programs. 
+
+    dvtm   brings   the   concept   of  tiling  window
+    management,  popularized  by  X11-window  managers
+    like  dwm  to  the  console.  As  a console window
+    manager  it  tries  to  make  it easy to work with
+    multiple       console       based      programs. 
+
+dwb
+
+    dwb(1)    is   a   small   webbrowser   based   on
+    WebKit     and    GTK    which    aims    to    be
+    mostly                            keyboard-driven.
