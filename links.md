@@ -19,6 +19,13 @@
 
 * [Top Gear Music on Piano - Super Nintendo][TG]
 
+# Linux
+
+* [The Linux Documentation Project][TLDP]
+
+    It  is  a  place  to learn good stuff about Linux. It is the
+    official documentation site. Checkout the HOWTO session!
+
 # Arch Linux
 
 * [Arch Linux Speeding Up][ArchUp]
@@ -116,3 +123,4 @@ programming      concepts      to      the      uninitiated.
 [JQueryTerminal]: http://terminal.jcubic.pl/
 [LCTHW]: http://learncodethehardway.org/
 [PMFucker]: http://programming-motherfucker.com/ 
+[TLDP]: http://www.tldp.org/
