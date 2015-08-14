@@ -1,4 +1,5 @@
-
+# Separar as dicas de softwares dentro do arquivo softwares.md
+em arquivos individuais para cada software.
 
  Teste
 # Tutorial sobre Git Patterns
