@@ -1,5 +1,4 @@
-# Linux Tips
-## How to change the default shell for a user
+# How to change the default shell for a user
 There is two tools that I know to do the job:
 - usermod
 - chsh
@@ -26,7 +25,7 @@ If you don't pass the `user-login` then the actual user will be used.
 
 The `chsh` is a good option because it allows to a user change your own shell, without root access.
 
-### Aditional tip
+## Aditional tip
 One possible way to kwnow what is the actual shell for a user is using the `getent` command:
 
 ```
